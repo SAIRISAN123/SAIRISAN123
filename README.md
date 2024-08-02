@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai!</h1>
-- 🤝 I’m looking for help with [the game under development "Hybrid Farm" with Unity.](https://www.facebook.com/profile.php?id=61557334201111&mibextid=ZbWKwL)
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/1e8f4717-9751-4a15-bf5b-3278d0153455)">
+
+- 🤝 I’m seeking a volunteer to work on the game "Hybrid Farm" under Unity development. (https://www.facebook.com/profile.php?id=61557334201111&mibextid=ZbWKwL)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
