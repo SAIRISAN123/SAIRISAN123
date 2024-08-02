@@ -3,7 +3,7 @@
 
 - 🤝 I’m looking for a volunteer to join us in the game [Hybrid Farm](https://www.facebook.com/profile.php?id=61557334201111&mibextid=ZbWKwL) which is under development with Unity.
 - 
-<img src="https://github.com/SAIRISAN123/SAIRISAN123/blob/main/Releasing%20Poster.png" alt="Releasing Poster" height="400" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://github.com/SAIRISAN123/SAIRISAN123/blob/main/Releasing%20Poster.png" alt="Releasing Poster" height="300" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 
