@@ -2,8 +2,8 @@
 
 
 - Currently developing a game [Hybrid Farm](https://www.facebook.com/profile.php?id=61557334201111&mibextid=ZbWKwL).
-- Volunteer indie developers can join in the game development as partners.
-- Prefered skills C#.
+- Volunteer indie developers can join in the game development.
+- One of these skills is sufficient to join - C# Programming, Unity, Blender, Illustrator, Photoshop and music.
 - Watch the glimpse [here](https://fb.watch/tIER01mfnW/).
 
 <img src="https://github.com/SAIRISAN123/SAIRISAN123/blob/main/Releasing%20Poster.png" alt="Releasing Poster" height="400" style="display: block; margin-left: auto; margin-right: auto;">
