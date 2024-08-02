@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="1000" src= "https://github.com/SAIRISAN123/SAIRISAN123/blob/main/Releasing%20Poster.png">
 
-- 🤝 I’m looking for help with the game under development [Hybrid Farm](https://www.facebook.com/profile.php?id=61557334201111&mibextid=ZbWKwL) with Unity.
+- 🤝 I’m looking for a volunteer to  join the game [Hybrid Farm](https://www.facebook.com/profile.php?id=61557334201111&mibextid=ZbWKwL) which is under development with Unity.
 
 
 <p align="left">
