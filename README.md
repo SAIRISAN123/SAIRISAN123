@@ -14,7 +14,6 @@
    <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C logo" />
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Python logo" />
   <img src="https://img.shields.io/static/v1?message=C%23&logo=c-sharp&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C# logo" />
-
   <img src="[https://img.shields.io/static/v1?message=C%23](https://github.com/user-attachments/assets/11218376-302f-4aad-9a95-ccc04ec0ba94)](https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F33%2Fcsharp-badge.png)&logo=c-sharp&label=&color=FF4500&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C# logo" />
   
 
