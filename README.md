@@ -6,11 +6,11 @@
 <img src="https://github.com/SAIRISAN123/SAIRISAN123/blob/main/Releasing%20Poster.png" alt="Releasing Poster" height="400" style="display: block; margin-left: auto; margin-right: auto;">
 
 
-
+## My Skills
 <p align="left">
 </p>
 
-# My Skills
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=C++&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C++ logo" />
    <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=8B0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="C logo" />
